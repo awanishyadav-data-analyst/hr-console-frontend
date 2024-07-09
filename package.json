@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "proxy":"https://5235-122-176-134-168.ngrok-free.app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
